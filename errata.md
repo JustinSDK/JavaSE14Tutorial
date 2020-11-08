@@ -8,6 +8,10 @@
 
    ![P1-22](images/1_22_typo_1.JPG)
 
+## P1-22
+
+   ![P15-13](images/15_13_typo_1.JPG)
+
 ## P18-7
 
    ![P1-22](images/18_7_typo_1.JPG)
