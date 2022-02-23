@@ -6,7 +6,7 @@ import static java.util.Comparator.comparing;
 
 public class CustomerDemo {
     public static void main(String[] args) {
-        var customers = List.of(
+        var customers = Arrays.asList(
                 new Customer("Justin", "Lin", 804),
                 new Customer("Monica", "Huang", 804),
                 new Customer("Irene", "Lin", 804)
