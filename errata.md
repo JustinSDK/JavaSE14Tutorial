@@ -18,4 +18,8 @@
 
 ## P18-7
 
-   ![P1-22](images/18_7_typo_1.JPG)
+   ![P18-7](images/18_7_typo_1.JPG)
+
+## P19-6
+
+   ![P19-6](images/19_6_typo_1.JPG)
